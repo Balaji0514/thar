@@ -1,0 +1,90 @@
+h1{
+    border: solid;
+    width: 80px;
+    text-align: center;
+    font-size: large;
+    
+}
+h2{
+    margin-top: -10px;
+    font-size: xx-large;
+}
+#b1{
+    
+    border: solid;
+    position: absolute;
+    border-radius: 100px;
+    height: 40px;
+    width: 40px;
+    background-color: black;
+    margin-left: 3px;
+}
+#b2{
+    border: solid grey;
+    position: absolute;
+    border-radius: 100px;
+    height: 40px;
+    width: 40px;
+    background-color: grey;
+    margin-left: 120px;
+}
+#b3{
+    border: solid goldenrod;
+    position: absolute;
+    border-radius: 100px;
+    height: 40px;
+    width: 40px;
+    background-color: goldenrod;
+    margin-left: 60px;
+}
+#cart{
+    margin-left: 0px;
+    position: absolute;
+    margin-top: -5px;
+}
+p2{
+    margin-left: 200px;
+    font-size: xx-large;
+}
+body{
+    
+    width: 900px;
+    position: fixed;
+     padding: 30px;
+    margin-left: 200px;
+
+    border: solid 5px;
+   background-color: black;
+  background-image: linear-gradient(to bottom,red,black);
+}
+    
+
+.b1{
+    background-image: linear-gradient(to right,black,red);
+}
+p{
+    font-size: x-large;
+}
+#myimage{
+    width: 500px;
+    border: solid;
+    background-image: linear-gradient(to right,red,black);
+
+}
+.div{
+    background-image: linear-gradient(to right,red,black);
+}
+.color{
+    margin-top: -50px;
+}
+#star{
+    border: solid;
+    position: absolute;
+    margin-left: px;
+    
+}
+.abc{
+    margin-left: 50px;
+
+}
+#caricon{}
